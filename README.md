@@ -3,7 +3,7 @@ Rmarkdown files and supplementary information to reproduce results and statistic
 
 Repository contains:
 
--Scripts (01-05) to reproduce figures and resuts****
+-Scripts (01-04) to reproduce figures and resuts****
 
 -Compositional data (OTU_table.csv)
 
